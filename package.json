@@ -1,0 +1,15 @@
+{
+  "name": "WBS",
+  "version": "1.0.0",
+  "description": "WBS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Penelope Desimeur, Asmae Benganasse, Dalia El Aloui, Sarah Ferre",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.0.0",
+    "dagre-d3": "^0.6.4"
+  }
+}
